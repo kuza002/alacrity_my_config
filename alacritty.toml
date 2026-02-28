@@ -1,0 +1,13 @@
+[terminal.shell]
+program = "wsl.exe"
+args = ["~", "-d", "Debian"]
+
+[window]
+padding = { x = 5, y = 5 }
+opacity = 0.95
+
+[font]
+size = 12
+normal = { family = "Cascadia Code", style = "Regular" }
+
+[terminal]
